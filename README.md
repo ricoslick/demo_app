@@ -1,24 +1,6 @@
-# README
+# Ruby on Rails Tutorial: Demo_Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a quick demo_app created using scaffolding as described by
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
